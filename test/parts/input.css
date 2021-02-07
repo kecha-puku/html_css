@@ -1,0 +1,10 @@
+input{
+    width: 500px;
+    border: none;
+    border-bottom: solid 1px lightgray;
+    padding: 10px;
+}
+input:focus{
+    outline: none;
+    border-bottom: solid 1px aqua;
+}
